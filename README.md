@@ -2,7 +2,7 @@
 
 Spacebar Clicker is an idle game. Press space and collect as many spacebars as you can! 
 
-It was made for #js13kgames 2021 and can be played at the [competition website](https://js13kgames.com/entries/spacebar-clicker).
+It was made for #js13kGames 2021. You can play the most recent version of this game at [poki.com/en/g/spacebar-clicker](https://poki.com/en/g/spacebar-clicker).
 
 ## Tools
 
